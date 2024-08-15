@@ -1,8 +1,8 @@
 ## PDF-Merger
 SHA256 - 5E060B6736424D23C1B528E096357B8CF207DE6F9BAED4CB62D4C2B175F5102A 
-
-
-
+.
+.
+.
 Description:
 This is a simple and locally runnable PDF merger; runnable via the command line for Windows
 
